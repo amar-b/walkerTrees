@@ -11,4 +11,5 @@
 *.sln.docstates
 *.dtbcache
 *.vs
-/bin
+tree/bin
+tree/obj
